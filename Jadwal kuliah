@@ -1,0 +1,104 @@
+<html>
+    <style>
+    
+        table,th,td{
+            border: 1px solid rgb(10, 10, 10);
+            border-collapse: collapse;
+        }
+        td{
+            background-color: rgb(243, 247, 239);
+            width: 5%;
+        }
+        th{
+            background-color: rgb(26, 179, 190);
+            width: 5%;
+        }
+        
+    </style>
+    <head>
+        <h2 style="background-color:powderblue;" align = "center">JADWAL KULIAH SEMESTER 5</h2> 
+        <body style="background-color:rgb(222, 229, 231);">
+            <p> selamat datang di web eliana :)</p>
+            <p>Nama : Eliana</p>
+            <p>Nim : 205314015</p>
+        <table style="width:100%">
+         <tr>
+            <tr>
+                <th>Hari/Jam</th>
+      
+                <th >11-12</th>
+                <th >12-13</th>
+                <th >13-14</th>
+                <th >14-15</th>
+                <th >15-16</th>
+                <th >16-17</th>
+                <th >17-18</th>
+                <th >18-19</th>
+            </tr>
+            <tr>
+                    <td>Senin</td>
+                    <td>ALGO106 Strategi AL K.312 KELAS D</td>
+                    <td>ALGO106 Strategi AL K.312 KELAS D</td>
+                    <td></td>
+                    <td>INMA105 Administrasi Lab.Basis KELAS A</td>
+                    <td>INMA105 Administrasi Lab.Basis KELAS A</td>
+                    <td>SENG106 Platfrom Lab.Basis KELAS A</td>
+                    <td>SENG106 Platfrom Lab.Basis KELAS A</td>
+                    <td></td>
+                 </tr>
+                 <tr>
+                    <td>Selasa</td>
+                    <td></td>
+                    <td>ALGO107 Algo op L GM FST KELAS A</td>
+                    <td>ALGO107 Algo op L GM FST KELAS A</td>
+                    <td></td>
+                    <td></td>
+                    <td> SENG104 RPL K.207 KELAS A</td>
+                    <td></td>
+                    <td></td>
+                 </tr>
+                 <tr>
+                    <td style="background-color: rgb(26, 179, 190);">Rabu</td>
+                    <td></td>
+                    <td >INST102 Pengenalan pola LKD.C FST kelas A </td>
+                    <td >INST102 Pengenalan pola LKD.C FST kelas A </td>
+                    <td >INST102 Pengenalan pola LKD.C FST kelas A </td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                 </tr>
+                 <tr>
+                    <td>Kamis</td>
+                    <td>SENG106 Platform Lab Basis kelas AP </td>
+                    <td>SENG106 Platform Lab Basis kelas AP </td>
+                    <td>SENG104 RPL K.312 kelas AP </td>
+                    <td>SENG104 RPL K.312 kelas AP </td>
+                    <td></td>
+                    <td>ALGO107 Algo op Lab Basis KELAS AP</td>
+                    <td>ALGO107 Algo op Lab Basis KELAS AP</td>
+                    
+                 </tr>
+                 <tr>
+                    <td style="background-color: rgb(26, 179, 190);">Jumat</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                 </tr>
+                 <tr>
+                    <td style="background-color: rgb(26, 179, 190);">Sabtu</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                 </tr>
+                </table>
+
