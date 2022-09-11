@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+table,th,td {
+        border: 1px solid rgb(12, 12, 12);
+        border-collapse: collapse;
+    }
+<body>
+    <h2 JADWAL KESEHARIAN </h2>
+
+    <p>Nama : Eliana</p>
+    <p>NIm : 205314015</p>
+    <table style="width:100%">
+        <tr>
+            <th style="width: 5%">NO</th>
+            <th> Jam </style>
+            </th>
+            <th>Kegiatan</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>05.00 wib</td>
+            <td>Bangun</td>
+
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>05.15-05.30 wib</td>
+            <td>Membersihkan Kamar</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>05.30-05.45 wib</td>
+            <td>Sarapan</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>05.45-06.10 wib</td>
+            <td>Mandi</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>06.15 - 6.25 wib</td>
+            <td>siap-siap</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>6.30</td>
+            <td>PERGI KULIAH</td>
+        </tr>
+
+
+    </table>
+</body>
+
+</html>
