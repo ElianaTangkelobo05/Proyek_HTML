@@ -4,6 +4,9 @@ table,th,td {
         border: 1px solid rgb(12, 12, 12);
         border-collapse: collapse;
     }
+    th,td {
+        background-color:powderblue;
+    }
 <body>
     <h2 JADWAL KESEHARIAN </h2>
 
