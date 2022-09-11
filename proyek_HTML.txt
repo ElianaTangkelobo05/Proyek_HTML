@@ -12,9 +12,9 @@ table,th,td {
 
     <p>Nama : Eliana</p>
     <p>NIm : 205314015</p>
-    <table style="width:100%">
+    <table style="width:30%">
         <tr>
-            <th style="width: 5%">NO</th>
+            <th style="width: 1%">NO</th>
             <th> Jam </style>
             </th>
             <th>Kegiatan</th>
